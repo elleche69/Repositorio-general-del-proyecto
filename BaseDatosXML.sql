@@ -1,0 +1,6 @@
+CREATE TABLE INFORMESXMLType
+( 
+  id number PRIMARY KEY,
+  PARTE XMLType,
+  MES_AÑO VARCHAR2(12)
+);
