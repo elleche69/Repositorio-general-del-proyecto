@@ -1,0 +1,10 @@
+Datos del login utilizados en la base de datos de prueba:
+  
+  Admin:
+      Usuario: elleche69
+      Contraseña : aitorispas
+  Usuario logistica:
+      Usuario : prueba
+      Contraseña : prueba
+
+No admite inyeccion sql      
