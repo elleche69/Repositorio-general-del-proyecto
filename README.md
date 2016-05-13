@@ -9,7 +9,9 @@ Para ejecutar la aplicación, tenemos dos opciones, ejecutarla desde el propio e
 Por último, y ya dicho anteriormente al ejecutar por primera vez la aplicación nos pedirá un usuario y una contraseña los cuales tendremos ya creados al haber ejecutado el script, usuario: admin contraseña: admin. A partir de este usuario podremos administrar y crear los usuarios que queramos para utilizar todas las funcionalidades de la aplicación. A parte, para que la aplicación funcione al 100% necesitaremos importar la librería de oracle jbdc6, que se encuentra en la página oficial de netbeans. La utilizaremos para unir la base de datos a la aplicación.
 
 
-*Nota*
+
+<strong>Nota</strong>
+<br/>
 En la base de datos experimental los usuarios de prueba son:
   Admin-------> Usuario: elleche69
                 Contrasela: aitorispas
