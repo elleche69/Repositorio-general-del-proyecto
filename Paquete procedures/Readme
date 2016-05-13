@@ -1,0 +1,4 @@
+Esta carpeta contiene los procedures, en total hay tres scrips, de los cuales uno es un procedure de prueba sin empaquetar hecho 
+para las pruebas desde java, ya que nos costo un poco conseguir recuperar el cursor en modo de arraylist utilizando los procedures.
+
+Los otros dos scrips contienen procedures empaquetados.
