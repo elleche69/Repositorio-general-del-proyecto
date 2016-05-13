@@ -14,6 +14,6 @@ Por último, y ya dicho anteriormente al ejecutar por primera vez la aplicación
 <br/>
 En la base de datos experimental los usuarios de prueba son:<br/>
   Admin-------> Usuario: elleche69<br/>
-                Contraseña: aitorispas<br/>
+        |-----> Contraseña: aitorispas<br/>
   Logis-------> Usuario : prueba<br/>
-                Contrasela : prueba
+        |-----> Contraseña : prueba
