@@ -6,7 +6,7 @@ Cursor CR is select  24 * (to_date(hora_llegada, 'hh24:mi')
              - to_date(hora_salida, 'hh24:mi')) diff_hours 
        from lineasbd where NUM_PARTE = :new.NUM_PARTE;
 l_employee_id  CR%ROWTYPE;       
-p INTEGER := -6;       
+p INTEGER := 0;       
        
 Begin
 
@@ -18,9 +18,9 @@ LOOP
 
 EXIT WHEN CR%NOTFOUND;
 END LOOP;
-if p-8  > 0
+if (p-8)/2  > 0
 then 
-insert into horasextra values(:new.num_parte, p - 8);
+insert into horasextra values(:new.num_parte, (p - 8)/2);
 end if;
 end;
 
