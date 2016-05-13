@@ -10,3 +10,4 @@ CREATE TABLE INFORMESXMLType
 genera el xml de los partes del mes anterior (los genera del mes anterior para estar seguros de que cuando
 el xml se genera estan todos los partes del mes), este boton solo esta activo cuando no hay ningun informe
 de el mes anterior (para que no generen 200000 del mismo mes).
+Los datos estan cogidos la tabla relacional "PartesTrabajobd"
