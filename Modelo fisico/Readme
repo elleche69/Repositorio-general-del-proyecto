@@ -7,4 +7,4 @@ Datos del login utilizados en la base de datos de prueba:
       Usuario : prueba
       Contraseña : prueba
 
-No admite inyeccion sql      
+Estos datos son los utilizados para las pruebas en la base de datos experimental.      
