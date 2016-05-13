@@ -1,0 +1,2 @@
+En el trigger, la variable p (que es el total de horas trabajadas) empieza con un valor de -6 porque si no (no sabemos el motivo)
+si la ponemos con el valor de 0 de inicio (que seria lo normal) nos saca siempre el total de horas trabajadas + 6.
