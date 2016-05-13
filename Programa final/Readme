@@ -1,2 +1,4 @@
 Este es el programa final, esta subido en zip ya que Github no puede subir carpetas que contengan mas de 100 files,
 con un descompresor normal sirve.
+El javadoc esta dentro del la carpeta del programa, en la subcarpeta dist, dentro de la carpeta con su mismo nombre
+tambien dentro de dist esta el ejecutable.
